@@ -20,3 +20,20 @@
 08_Upload Media/**/*.wmv
 08_Upload Media/**/*.mpeg
 08_Upload Media/**/*.mpg
+
+# Course video recordings
+08_Upload Media/**/*.mp4
+08_Upload Media/**/*.webm
+08_Upload Media/**/*.mov
+08_Upload Media/**/*.m4v
+08_Upload Media/**/*.avi
+08_Upload Media/**/*.mkv
+08_Upload Media/**/*.wmv
+08_Upload Media/**/*.mpeg
+08_Upload Media/**/*.mpg
+
+# macOS
+.DS_Store
+
+# Jupyter temporary files
+.ipynb_checkpoints/
