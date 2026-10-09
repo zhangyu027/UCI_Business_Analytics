@@ -1,0 +1,4 @@
+WORK IN PROGRESS — NOT A VERIFIED FINAL ANSWER KEY
+Module 3: exported with freeze-row formatting; check native PivotTable functionality in Excel.
+Modules 2, 5, and 7: original files copied intact to preserve embedded charts, pivots, Solver and scenario structures. They have NOT been fully corrected or polished.
+No workbook is represented as independently verified. Do not use this package as final instructor solutions.
